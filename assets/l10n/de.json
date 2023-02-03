@@ -23,5 +23,10 @@
   "sendOTP": "OTP senden",
   "verifyPhoneNumber": "Telefonnummer verifizieren",
   "sendAgain": "Nochmals senden",
-  "editPhoneNumber": "Telefonnummer bearbeiten?"
+  "editPhoneNumber": "Telefonnummer bearbeiten?",
+  "forgetPassword": "Passwort vergessen?",
+  "email": "email",
+  "welcom": "Willkommen",
+  "back": "zurück!",
+  "haventAnAccount": "Sie haben kein Konto?"
 }

@@ -23,5 +23,10 @@
   "sendOTP": "ارسل رمز تحقق",
   "verifyPhoneNumber": "تحقق من رقم الهاتف",
   "sendAgain": "أعد الإرسال",
-  "editPhoneNumber": "تعديل رقم الهاتف؟"
+  "editPhoneNumber": "تعديل رقم الهاتف؟",
+  "forgetPassword": "نسيت كلمة السر؟",
+  "email": "البريد الإلكتروني",
+  "welcom": "مرحبًا",
+  "back": "بعودتك!",
+  "haventAnAccount": "ليس لديك حساب؟"
 }

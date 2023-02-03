@@ -23,5 +23,10 @@
   "sendOTP": "Send OTP",
   "verifyPhoneNumber": "verify phone number",
   "sendAgain": "Send again",
-  "editPhoneNumber": "Edit phone number?"
+  "editPhoneNumber": "Edit phone number?",
+  "forgetPassword": "Forget password?",
+  "email": "email",
+  "welcom": "Welcome",
+  "back": "back!",
+  "haventAnAccount": "Haven’t an account?"
 }
